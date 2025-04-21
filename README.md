@@ -1,21 +1,12 @@
-Cupcake app
-=================================
+# Lomitería - App de pedidos
 
-This app contains an order flow for cupcakes with options for quantity, flavor, and pickup date.
-The order details get displayed on an order summary screen and can be shared to another app to
-send the order.
+Proyecto Android desarrollado con Kotlin y Jetpack Compose. 
+Esta aplicación fue adaptada desde un proyecto base (Cupcake) y modificada para representar una app de pedidos de lomitos, pensada para un negocio gastronómico.
 
+## Funcionalidades
+- Pedido paso a paso de productos
+- Selección de cantidad, sabores y extras
+- Flujo de navegación con ViewModel
+- Manejo de Arquitecturas modernas
 
-Pre-requisites
---------------
-* Experience with Kotlin syntax.
-* How to create and run a project in Android Studio.
-* How to create composable functions 
-
-
-Getting Started
----------------
-1. Install Android Studio, if you don't already have it.
-2. Download the sample.
-3. Import the sample into Android Studio.
-4. Build and run the sample.
+Proyecto creado con fines de práctica y presentación profesional.
