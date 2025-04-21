@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Hamburguesa vector drawable -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="148.96909dp"
+    android:height="200dp"
+    android:viewportWidth="308.15"
+    android:viewportHeight="413.71">
+
+    <!-- Pan superior -->
+    <path
+        android:fillColor="#ffca28"
+        android:pathData="M20,150c0,-40 60,-70 134,-70s134,30 134,70H20z"/>
+    <!-- Semillas -->
+    <path android:fillColor="#fff59d" android:pathData="M80,100a4,4 0 1,0 8,0a4,4 0 1,0 -8,0z"/>
+    <path android:fillColor="#fff59d" android:pathData="M120,90a3.5,3.5 0 1,0 7,0a3.5,3.5 0 1,0 -7,0z"/>
+    <path android:fillColor="#fff59d" android:pathData="M160,95a3.5,3.5 0 1,0 7,0a3.5,3.5 0 1,0 -7,0z"/>
+    <path android:fillColor="#fff59d" android:pathData="M200,100a4,4 0 1,0 8,0a4,4 0 1,0 -8,0z"/>
+    <!-- Lechuga -->
+    <path
+        android:fillColor="#66bb6a"
+        android:pathData="M20,150c0,15 60,20 134,20s134,-5 134,-20l-268,0z"/>
+    <!-- Queso -->
+    <path
+        android:fillColor="#fdd835"
+        android:pathData="M40,170l30,15l30,-15l30,15l30,-15l30,15l30,-15l28,15l-0,20l-268,0l0,-20z"/>
+    <!-- Carne -->
+    <path
+        android:fillColor="#6d4c41"
+        android:pathData="M20,210h268v20a10,10 0 0,1 -10,10H30a10,10 0 0,1 -10,-10v-20z"/>
+    <!-- Pan inferior -->
+    <path
+        android:fillColor="#ffca28"
+        android:pathData="M20,240c0,20 60,30 134,30s134,-10 134,-30H20z"/>
+</vector>
